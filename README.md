@@ -75,12 +75,6 @@ I'm always open to collaboration, learning opportunities, and interesting projec
 
 ---
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/zaimar4/zaimar4/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🚀 Building, Learning, and Solving Problems Through Technology
 
 *"Every problem is an opportunity to create value."*
