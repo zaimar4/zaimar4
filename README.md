@@ -1,26 +1,41 @@
-# Hi there 👋, I'm Zaim
+# 💫 Hi 👋, I'm Zaim
 
 ### Software Engineering Student | Flutter Developer | Web Developer
 
-I'm a Software Engineering student at a vocational high school who is passionate about building digital products that solve real-world problems.
+I'm a Software Engineering student passionate about building digital products that solve real-world problems. My main focus is mobile application development with Flutter while continuously exploring web development, software engineering, and modern technologies.
 
-My primary focus is mobile application development using Flutter, while continuously exploring web development, software engineering principles, and modern technologies. I enjoy transforming ideas into practical applications and improving my skills through hands-on projects and continuous learning.
+📫 Email Me 👉 **[your-email@example.com](mailto:your-email@example.com)**
+
+I'm always open to collaboration, learning opportunities, and interesting projects.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Currently studying Software Engineering at a Vocational High School
-* 📱 Passionate about Mobile App Development with Flutter
+* 🎓 Currently studying Software Engineering
+* 📱 Passionate about Flutter Development
 * 🌐 Interested in Modern Web Development
-* 💡 Enthusiastic about Software Engineering and Product Development
-* 🧠 Enjoy solving problems through technology
-* 📚 Constantly learning and improving
+* 💡 Love building useful applications
+* 🧠 Problem Solver & Lifelong Learner
 * 🎯 Aspiring Software Engineer & Mobile Developer
 
 ---
 
-## 🛠 Tech Stack
+## 💭 Developer Philosophy
+
+> "I believe the best software is born from real problems. My goal is to discover challenges, understand them deeply, and build solutions that create meaningful impact."
+
+---
+
+## 🌐 Socials
+
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/YOUR_USERNAME)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
+
+---
+
+# 💻 Tech Stack
 
 ### Mobile Development
 
@@ -48,23 +63,7 @@ My primary focus is mobile application development using Flutter, while continuo
 
 ---
 
-## 📊 GitHub Statistics
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<p>
-  <img height="180em" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,python" />
@@ -72,43 +71,32 @@ My primary focus is mobile application development using Flutter, while continuo
 
 * Advanced Flutter Development
 * Software Architecture
-* State Management
 * Database Design
-* Clean Code Principles
+* State Management
 * UI/UX Design
 * Machine Learning Fundamentals
 
 ---
 
-## 🎯 Goals
+# 🏆 GitHub Trophies
 
-* Build production-ready mobile applications
-* Master software engineering fundamentals
-* Create products that solve real-world problems
-* Contribute to meaningful projects
-* Continuously improve as a developer
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight\&no-frame=true\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 💭 Philosophy
+# 📊 GitHub Stats
 
-> "I believe the best software is born from real problems. My goal is to discover challenges, understand them deeply, and build solutions that create meaningful impact."
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&theme=tokyonight\&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&theme=tokyonight\&layout=compact)
+
+![](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+# 🐍 Contribution Snake
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
