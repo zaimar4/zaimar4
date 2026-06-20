@@ -77,7 +77,7 @@ I'm always open to collaboration, learning opportunities, and interesting projec
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/zaimar4/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/zaimar4/zaimar4/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
